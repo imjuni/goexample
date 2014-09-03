@@ -4,8 +4,8 @@ goexample
 Go language web application example using martini and mustache
 
 # includes
-* using [less](http://lesscss.org/)
-* using [mustache](http://mustache.github.io/)
-* using [bower](http://bower.io/)
-* using [gulp](http://gulpjs.com/)
-* using [martini](https://github.com/go-martini/martini)
+* [less](http://lesscss.org/) - css preprocessor
+* [mustache](http://mustache.github.io/) - logic less templates
+* [bower](http://bower.io/) - package manager for the web
+* [gulp](http://gulpjs.com/) - the streaming build system for the web
+* [martini](https://github.com/go-martini/martini) - web framework for golang
