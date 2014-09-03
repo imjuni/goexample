@@ -1,0 +1,23 @@
+{
+  "name": "goexample",
+  "version": "0.0.1",
+  "authors": [
+    "imjuni"
+  ],
+  "description": "Go language web application example using martini and mustache",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.2.0",
+    "fontawesome": "~4.2.0"
+  }
+}

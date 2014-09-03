@@ -21,3 +21,13 @@ _testmain.go
 
 *.exe
 *.test
+
+# intelliJ
+.idea
+goexample.iml
+
+# gulp
+node_modules/
+
+# build production
+out/

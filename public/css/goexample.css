@@ -1,0 +1,36 @@
+@font-face {
+  font-family: 'Nanum Gothic';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/fonts/nanum/NanumGothic-Regular.eot');
+  src: url('/fonts/nanum/NanumGothic-Regular.eot?#iefix') format('embedded-opentype'), url('/fonts/nanum/NanumGothic-Regular.woff') format('woff'), url('/fonts/nanum/NanumGothic-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Nanum Gothic';
+  font-style: normal;
+  font-weight: 700;
+  src: url('/fonts/nanum/NanumGothic-Bold.eot');
+  src: url('/fonts/nanum/NanumGothic-Bold.eot?#iefix') format('embedded-opentype'), url('/fonts/nanum/NanumGothic-Bold.woff') format('woff'), url('/fonts/nanum/NanumGothic-Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Nanum Gothic';
+  font-style: normal;
+  font-weight: 800;
+  src: url('/fonts/nanum/NanumGothic-ExtraBold.eot');
+  src: url('/fonts/nanum/NanumGothic-ExtraBold.eot?#iefix') format('embedded-opentype'), url('/fonts/nanum/NanumGothic-ExtraBold.woff') format('woff'), url('/fonts/nanum/NanumGothic-ExtraBold.ttf') format('truetype');
+}
+[ng\:cloak],
+[ng-cloak],
+[data-ng-cloak],
+[x-ng-cloak],
+.ng-cloak,
+.x-ng-cloak {
+  display: none !important;
+}
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}

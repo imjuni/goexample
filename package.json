@@ -1,0 +1,19 @@
+{
+  "name": "goexample",
+  "version": "0.0.1",
+  "description": "Go language web application example using martini and mustache",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "gulp": "~3.6.2",
+    "gulp-less": "~1.2.3",
+    "gulp-concat": "~2.2.0",
+    "gulp-minify-css": "~0.3.4",
+    "gulp-rename": "~1.2.0",
+    "gulp-uglify": "~0.2.1",
+    "gulp-jshint": "~1.5.5",
+    "gulp-livereload": "~1.3.1",
+    "gulp-watch": "~0.6.4",
+    "jshint-stylish": "~0.2.0"
+  }
+}
